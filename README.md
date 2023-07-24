@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manselord
+- 👋 Hi, I’m @mansevito
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning basics
 - 💞️ I’m looking to collaborate on Apple
